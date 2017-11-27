@@ -7,7 +7,8 @@ Vous êtes sur Vaillant Tour
 Markdown est le langage utilisé pour le README
 
 ```markdown
-Syntax code
+Syntax code 
+```
 
 # Header 1
 ## Header 2
@@ -21,8 +22,8 @@ Syntax code
 
 **Bold** et _Italic_ and `Code` texte
 
-[Lien](url) et ![Image](src)
-```
+[Lien](url)
+
 
 ### Jekyll Themes
 
